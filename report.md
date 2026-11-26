@@ -135,7 +135,7 @@ quarter.](report_files/figure-commonmark/cell-4-output-1.png)
 
 Teams in the top payroll quarter reached the playoffs 41% of the time
 versus 11% for the bottom quarter, and won 17 of the 31 championships
-versus 2. Spending buys a better ticket.
+versus 2 for the bottom quarter. Spending simply buys better odds.
 
 ## 3. Yet the champion is rarely the biggest spender
 
