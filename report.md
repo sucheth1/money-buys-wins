@@ -121,28 +121,17 @@ g.round(1)
 ![Playoff rate and World Series titles by payroll
 quarter.](report_files/figure-commonmark/cell-4-output-1.png)
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-&#10;    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-&#10;    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
 
 |                  | n   | po   | ws  |
 |------------------|-----|------|-----|
 | q                |     |      |     |
-| Lowest\nquarter  | 230 | 11.3 | 2   |
+| Lowest           | 230 | 11.3 | 2   |
 | Second           | 229 | 17.9 | 4   |
 | Third            | 229 | 26.6 | 8   |
-| Highest\nquarter | 230 | 40.9 | 17  |
+| Highest          | 230 | 40.9 | 17  |
 
-</div>
+
 
 Teams in the top payroll quarter reached the playoffs 41% of the time
 versus 11% for the bottom quarter, and won 17 of the 31 championships
@@ -173,18 +162,7 @@ c[c.rel < 1][["yearID", "name", "rel"]].round(2)
 ![Payroll of every World Series champion (large dots) against all other
 teams (grey).](report_files/figure-commonmark/cell-5-output-1.png)
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-&#10;    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-&#10;    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
 
 |     | yearID | name               | rel  |
 |-----|--------|--------------------|------|
@@ -236,11 +214,6 @@ chance of making the playoffs and from 2 to 17 championships across
 payroll quarters. Baseball’s randomness leaves room for the Athletics
 and the Tigers.
 
-**Limitations.** This is an association, not a causal estimate:
-big-market teams have other advantages too. Payroll is the sum of Lahman
-salary records and may differ slightly from official payrolls. The
-salary data ends in 2016, and 1994 had no postseason because of the
-strike.
 
 ## Data source
 
