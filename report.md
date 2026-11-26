@@ -51,7 +51,7 @@ m[["yearID", "name", "W", "L", "salary", "rel", "Playoffs", "WSWin"]].head()
 &#10;    .dataframe thead th {
         text-align: right;
     }
-</style>
+
 
 |     | yearID | name              | W   | L   | salary   | rel      | Playoffs | WSWin |
 |-----|--------|-------------------|-----|-----|----------|----------|----------|-------|
